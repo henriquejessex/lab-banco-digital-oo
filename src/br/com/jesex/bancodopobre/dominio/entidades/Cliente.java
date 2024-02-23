@@ -1,3 +1,4 @@
+package br.com.jesex.bancodopobre.dominio.entidades;
 
 public class Cliente {
 

@@ -1,3 +1,5 @@
+package br.com.jesex.bancodopobre.dominio.entidades;
+import br.com.jesex.bancodopobre.servico.interfaces.IConta;
 
 public abstract class Conta implements IConta {
 	

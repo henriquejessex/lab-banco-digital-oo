@@ -1,3 +1,4 @@
+package br.com.jesex.bancodopobre.servico.interfaces;
 
 public interface IConta {
 	

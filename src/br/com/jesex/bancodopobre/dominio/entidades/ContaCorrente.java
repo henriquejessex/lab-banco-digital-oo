@@ -1,4 +1,4 @@
-
+package br.com.jesex.bancodopobre.dominio.entidades;
 public class ContaCorrente extends Conta {
 
 	public ContaCorrente(Cliente cliente) {
